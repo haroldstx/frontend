@@ -1,0 +1,27 @@
+Instrucciones:
+
+Crear el siguiente ejercicio en React
+Entregar antes de finalizar la hora clase.
+Cargar el link del repositorio.
+Individual.
+Ejercicio:
+Mini Lista de Tareas :
+Crear componentes funcionales
+
+Ex:
+src/
+├── App.jsx
+├── components/
+│ ├── FormularioTarea.jsx
+│ ├── ListaTareas.jsx
+Usar useState para manejar datos
+
+Capturar eventos (onChange, onClick)
+
+Mostrar listas (.map)
+
+Eliminar elementos
+
+Contar tareas
+
+Resultado:
